@@ -5,11 +5,6 @@ Backbone Scaffold generator
 ## Getting Started
 Install the module with: `npm install bbg`
 
-```javascript
-var bbg = require('bbg');
-bbg.awesome(); // "awesome"
-```
-
 ## Documentation
 _(Coming soon)_
 
